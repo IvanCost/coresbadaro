@@ -1,0 +1,3 @@
+include ':app', ':coresbadaro'
+rootProject.name='MakingLibrary'
+include ':sample', ':coresbadaro'
